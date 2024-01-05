@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import Dashboard from "./Dashboard";
 import Loading from "../components/Loading";
 import { Outlet, useNavigate, useNavigation } from "react-router-dom";
 
